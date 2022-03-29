@@ -28,7 +28,7 @@ def draw_txt():
     pen.setpos(-50, 90)
     pen.down()
     pen.color('white')
-    pen.write("Анютка", font=("Montserrat", 16, "bold"))
+    pen.write("Поздравляю !!!", font=("Montserrat", 16, "bold"))
     pen.up()
     pen.setpos(-70, 70)
     pen.down()
